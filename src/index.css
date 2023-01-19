@@ -1,0 +1,8 @@
+@tailwind base;
+
+.table-page{
+  @apply min-h-[calc(100vh-7.1rem)] py-4;
+}
+
+@tailwind components;
+@tailwind utilities;
